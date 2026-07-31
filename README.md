@@ -1,5 +1,11 @@
 # Azure Cloud Security Portfolio
 
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-Cloud%20Security-0078D4?logo=microsoftazure)
+![Security](https://img.shields.io/badge/Focus-Cloud%20Security-red)
+![Terraform](https://img.shields.io/badge/IaC-Terraform-7B42BC?logo=terraform)
+![PowerShell](https://img.shields.io/badge/Scripting-PowerShell-blue?logo=powershell)
+![GitHub](https://img.shields.io/badge/Portfolio-GitHub-black?logo=github)
+
 ## Overview
 
 Welcome to my Azure Cloud Security Portfolio.
