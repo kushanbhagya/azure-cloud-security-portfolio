@@ -33,7 +33,7 @@ The goal of this portfolio is to develop practical skills for Cloud Security Eng
 
 | # | Project | Status |
 |---|---------|--------|
-| 01 | Secure Azure Virtual Network | ⏳ Planned |
+| 01 | Secure Azure Virtual Network | Completed ✅|
 | 02 | Microsoft Entra ID Security | ⏳ Planned |
 | 03 | Microsoft Defender for Cloud | ⏳ Planned |
 | 04 | Microsoft Sentinel (SIEM) | ⏳ Planned |
